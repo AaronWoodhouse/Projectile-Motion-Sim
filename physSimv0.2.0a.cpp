@@ -5,21 +5,21 @@ An attempt to make some kind of basic physics simulator
 
 Versions:
    Last Modified: 2019-01-24
-      Aaron Woodhouse, ID: 100699990
+      Aaron Woodhouse
 
    0.1.0a - 2019-01-10
       -Added basic projectile motion in 2D
       -Graphing of simulation
       -Collisions not implemented
-      Aaron Woodhouse, ID: 100699990
+      Aaron Woodhouse
 
    0.2.0a - 2019-01-24
       -changed graph visuals
       -added ground level visual
-      Aaron Woodhouse, ID: 100699990
+      Aaron Woodhouse
 
 Authors:
-   Aaron Woodhouse, ID: 100699990
+   Aaron Woodhouse
 */
 #include <iostream>
 //#include <math.h>
